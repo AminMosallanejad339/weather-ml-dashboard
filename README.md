@@ -48,16 +48,16 @@ This project designs an **intelligent weather analytics system** focused on **ev
 ##   Dashboard Screenshots
 
 ### Home Page
-![Home](dashboard/assets/screenshots/home.png)
+![Home](home.png)
 
 ### EDA — Correlation Analysis
-![EDA](dashboard/assets/screenshots/eda.png)
+![EDA](eda.png)
 
 ### Model Comparison
-![Models](dashboard/assets/screenshots/models.png)
+![Models](models.png)
 
 ### Live Forecast
-![Forecast](dashboard/assets/screenshots/forecast.png)
+![Forecast](forecast.png)
 
 ---
 
